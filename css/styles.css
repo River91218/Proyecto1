@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+body{
+    background-color: black;
+}
+.navbar{
+    font-size: 50px;
+    color: orangered;
+    width: 800px;
+    height: 60px;
+    }
+
+nav {
+    background-color: chartreuse;
+    font-size: 30px;
+    width: 700px;
+}
+p {
+    border-style: double;
+    border-color: magenta;
+}
+.paragraph{
+    background-color: aqua;
+    font-size: 30px;
+}
+img {
+    width: 350px;
+    height: 350px;
+}
+.parragraph2 {
+    background-color: chartreuse;
+    font-size: 30px;
+    width: 600px;
+}
+ul {
+    color: dodgerblue;
+    font-size: 30px;
+}
+.paragraph3 {
+    background-color: gold;
+    font-size: 30px;
+    width: 800px;
+}
+form {
+    color: green;
+}
+footer {
+    color: red;
+    font-size: 20px;
+}
+img {
+    width: 80px;
+    height: 80px;
+}
